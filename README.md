@@ -1,4 +1,4 @@
 # ScoreKeeper
-readme test
-
-*今週中にやりましょう*
+重要な内容
+・ほげほげ
+・ほげほげ
