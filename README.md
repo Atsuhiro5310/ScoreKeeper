@@ -1,7 +1,7 @@
 # ScoreKeeper
 ## 重要な内容
-＊　querySelectorで連携するためにidの登録をしておく
-＊ addEventListenerでイベントを追加する（click, change）
+* querySelectorで連携するためにidの登録をしておく
+* addEventListenerでイベントを追加する（click, change）
 * textContentの使用
 * selectの復習
 * thisの確認（アロー関数の場合も）
