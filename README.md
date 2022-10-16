@@ -4,7 +4,7 @@
 * addEventListenerでイベントを追加する（click, change）
 * textContentの使用
 * selectの復習
-* thisの確認（アロー関数の場合も）
+* thisの確認（thisでもらうのはString）⇦typeofで確認
 * parseInt()でnumberにする
 * classList.add()でクラスを追加（classList.remove()でクラスを削除）
 * Bulmaを使ってみる
