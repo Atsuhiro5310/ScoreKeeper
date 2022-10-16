@@ -13,7 +13,7 @@
   * class="button is-primary" 色の選択
   * <div class="select is-rounded"> セレクトのスタイル
   * <figure class="image is-2by1">　横２：縦１の画像を挿入
-            <img src="hogehoge">　画像のソースを入れる
+            `<img src="hogehoge">`　画像のソースを入れる
   * class="has-text-success" 文字の色の選択
   * button.disabled ボタンを無効化する属性を持つ
 * リファクタをする　（オブジェクトを作った上で関数を作る）
